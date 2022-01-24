@@ -1,0 +1,28 @@
+p{
+    color: blue;
+    text-align: right;
+    font-size: 20px;
+    font-weight: 900;
+}
+p.dua{
+    color: green;
+    text-align: start;
+}
+p.tiga{
+    color: red;
+}
+
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+
+.satu{
+    width: 650px;
+    height: 400px;
+    background-color: white;
+    overflow: scroll;
+    background-image: url("avocado.jpg");
+    background-repeat: repeat-y;
+    background-size: 50% 50%;
+}
